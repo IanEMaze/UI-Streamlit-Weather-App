@@ -3,6 +3,8 @@ This application will generate weather information based on user input for the c
 
 Visit https://weatherstack.com/ - To sign up for your free account to get API Key for your .env file
 
+Created in Python with Streamlit for UI
+
 ## Setup
 Install Pip if not already installed
 
